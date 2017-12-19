@@ -6,4 +6,4 @@ Required:
 
 1.Android studio 
 
-Import project into app the run the app.
+Import project then run.
